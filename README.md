@@ -34,6 +34,7 @@ This project is a movie API that fetches data from The Movie Database (TMDB), pe
     ```env
     TMDB_API_KEY=your_tmdb_api_key
     MONGODB_URI=your_mongodb_uri
+    TMDB_URI=https://api.themoviedb.org
     ```
 
 4. Run the application:
