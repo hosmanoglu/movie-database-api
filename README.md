@@ -76,7 +76,7 @@ npm run test
     ```sh
     docker-compose up --build
     ```
-4. The API will be available at [http://localhost:3000](http://localhost:3000)
+4. The Swagger will be available at [http://localhost:3000/api](http://localhost:3000/api)
 
 
 ## About TMDB
