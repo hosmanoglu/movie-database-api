@@ -70,6 +70,7 @@ npm run test
     ```env
     TMDB_API_KEY=your_tmdb_api_key
     MONGODB_URI=mongodb://mongodb:27017/netflix
+    TMDB_URI=https://api.themoviedb.org
     ```
 3. Build and run the Docker containers:
     ```sh
