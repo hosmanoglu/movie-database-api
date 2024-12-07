@@ -21,7 +21,7 @@ This project is a movie API that fetches data from The Movie Database (TMDB), pe
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/movie-api.git
+    git clone https://github.com/hosmanoglu/movie-datatabase-api.git
     cd movie-api
     ```
 
